@@ -1,0 +1,23 @@
+.prime-video-img {
+  width: 100%;
+}
+
+.slider-container {
+  padding: 20px;
+}
+.action-container {
+  padding: 20px;
+  padding-bottom: 0px;
+}
+
+.prime-video-container {
+  color: #ffffff;
+  font-family: 'Roboto';
+  min-height: 100vh;
+  background-color: #000000;
+}
+
+h1 {
+  margin: 0px;
+  font-size: x-large;
+}

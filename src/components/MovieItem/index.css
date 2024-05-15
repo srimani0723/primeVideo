@@ -1,0 +1,41 @@
+.thumbnail {
+  width: 100%;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.trigger-button {
+  cursor: pointer;
+  border: 0px;
+  background-color: transparent;
+}
+
+.trigger-button-img {
+  width: 20px;
+  height: 20px;
+}
+
+.responsive-container {
+}
+
+.btn-box {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.popup {
+  border-radius: 10px;
+}
+
+.popup-container {
+  border-radius: 10px;
+}
+
+.popup-box {
+  padding: 20px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  padding-right: 40px;
+  border-radius: 10px;
+  background-color: white;
+}
